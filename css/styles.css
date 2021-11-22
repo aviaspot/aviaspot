@@ -90,6 +90,6 @@ h1 {
     background: linear-gradient(#EBEDEC, #fff);
 }
 
-flt-image-picker-inputs {
+flt-image-picker-inputs, flt-file-picker-inputs {
     visibility: hidden;
 }
