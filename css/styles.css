@@ -5,6 +5,7 @@
 
 header {
     background-color: #EBEDEC;
+    display: grid;
 }
 
 #ru,
